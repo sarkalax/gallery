@@ -83,13 +83,13 @@ window.addEventListener("DOMContentLoaded", () => {
                 trigger: ".header_title",
                 start: "top 50%",
                 scrub: true,
-                markers: true,
+                
             }
         })
         t1.to(".img",{
             x: -document.querySelector(".gallery_sec").offsetWidth,
             scrollTrigger: {
-                markers: true,
+             
                 scrub: 5,
                 trigger: ".img",
                 end: "+=100%",
