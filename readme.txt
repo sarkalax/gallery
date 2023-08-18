@@ -2,11 +2,11 @@
 kvalita obrázků         ✅
 při načtení už první    ✅
 
-👽 velikost kurzoru
-    canvasu
+👽 velikost kurzoru     ✅
+    canvasu             ✅
 
 👽 textura - nefunguje
-    y/n?
+    y/n? n
 
 👽 favicon? 
 
@@ -14,3 +14,5 @@ při načtení už první    ✅
      nájezd jednotlivých?
 
 👽 odkazy na scroll
+
+👽 CSS
