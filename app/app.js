@@ -20,8 +20,6 @@ window.addEventListener("DOMContentLoaded", () => {
         }
         cursor.style.setProperty("--mouseX", e.clientX + "px");
         cursor.style.setProperty("--mouseY", e.clientY + "px");
-        
-        console.log(e.clientX/e.clientY)
     })
     window.addEventListener("mouseout", () => {
         cursor.style.opacity = "0";
