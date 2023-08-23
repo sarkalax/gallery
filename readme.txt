@@ -1,6 +1,6 @@
 GALERIE
 
-[Open](https://sarysx.github.io/gallery/)
+(https://sarysx.github.io/gallery)
 
 DESKTOP VERZE
 
