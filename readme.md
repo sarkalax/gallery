@@ -4,10 +4,10 @@ GALERIE CREATIVE CODING
 
 DESKTOP VERZE
 
-Animace vyrendrovaná v Blenderu - Rigid Body mod
+Animace vyrendrovaná v Blenderu - Rigid Body mod,
 
-Imgs Creative Coding - Canvas Sketch
+Imgs Creative Coding - Canvas Sketch,
 
-Cursor podle polohy
+Cursor podle polohy,
 
 Scroll animace GSAP
