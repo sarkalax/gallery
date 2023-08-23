@@ -1,4 +1,4 @@
-GALERIE
+GALERIE CREATIVE CODING
 
 [Open](https://sarysx.github.io/gallery)
 
