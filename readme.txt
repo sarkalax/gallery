@@ -1,8 +1,9 @@
+GALERIE
+
 [Open](https://sarysx.github.io/gallery/)
 
-**Galerie**
-
 DESKTOP VERZE
- 
+
+Animace vyrendrovaná v Blenderu - Rigid Body mod
 Imgs Creative Coding - Canvas Sketch
-Animace GSAP
+Scroll animace GSAP
