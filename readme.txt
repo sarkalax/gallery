@@ -1,4 +1,8 @@
 [Open](https://sarysx.github.io/gallery/)
 
-**DESKTOP VERZE**
+**Galerie**
+
+DESKTOP VERZE
  
+Imgs Creative Coding - Canvas Sketch
+Animace GSAP
