@@ -11,4 +11,4 @@ DESKTOP VERZE
 * Cursor podle polohy
 
 * Scroll animace GSAP
-![Uploading Snímek obrazovky 2023-06-25 v 20.35.17.png…]()
+
