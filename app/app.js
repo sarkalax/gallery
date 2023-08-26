@@ -5,8 +5,8 @@ window.addEventListener("DOMContentLoaded", () => {
         cursor.style.opacity = "1";
 
         const minSize = 80,
-              minRatio = 0.6,
-              maxRatio = 1.2,
+              minRatio = 0.4,
+              maxRatio = 0.8,
               ratio = e.clientX/e.clientY;
 
         if (ratio > maxRatio) {
@@ -34,11 +34,6 @@ window.addEventListener("DOMContentLoaded", () => {
         smooth: 3,
     })
 
-    document.querySelector(".link1").addEventListener("click", () => {
-        console.log("click")
-        smoother.scrollTo(".about_sec", true, "center");
-    })
-    
     //vykreslení animace
     const canvas = document.querySelector(".header_canvas"),
           ctx = canvas.getContext("2d");
@@ -75,22 +70,28 @@ window.addEventListener("DOMContentLoaded", () => {
             },
             onUpdate: render,
         }) 
-        t1.from(".about_intro", {
-            y: -100,
+        t1.fromTo(".about", {
+            y: 200,
+            opacity: 0,
+        }, {
+            y: 0,
+            opacity: 1,
+            stagger: 0.5,
+            duration: 3,
             scrollTrigger: {
                 trigger: ".header_title",
-                start: "top 50%",
+                start: "1500%",
+                end: "2000%",
                 scrub: true,
-                
             }
         })
         t1.to(".img",{
-            x: -document.querySelector(".gallery_sec").offsetWidth,
+            x: "-100vw",
             scrollTrigger: {
-             
                 scrub: 5,
                 trigger: ".img",
-                end: "+=100%",
+                start: "top",
+                end: "300%",
                 pin: ".gallery_sec",
             }
         })
