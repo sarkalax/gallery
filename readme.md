@@ -1,6 +1,6 @@
 GALERIE CREATIVE CODING
 
-[Open](https://sarysx.github.io/gallery)
+[Open](https://sarkalax.github.io/gallery)
 
 DESKTOP VERZE
 * návrh ve Figmě
