@@ -14,5 +14,5 @@ DESKTOP VERZE
 * Scroll animace GSAP
 
 
-Do příště: ještě víc optimalizovat obrázky?, render při menších fps?
+Do příště: performance!, render při menších fps?
 
